@@ -1,4 +1,10 @@
-pandas>=2.2
-numpy>=1.26
-openpyxl>=3.1
-pyarrow>=16.0
+numpy
+pandas
+openpyxl
+scikit-learn
+matplotlib
+seaborn
+pyyaml
+sqlalchemy
+tqdm
+joblib

@@ -1,0 +1,22 @@
+project:
+  name: "Aurora Fashion Club"
+  seed: 42
+  base_currency: "BRL"
+
+generation:
+  customers: 100000
+  products: 5000
+  orders: 800000
+  order_items_max_per_order: 8
+  campaigns: 1000
+  interactions: 3500000
+  support_tickets: 120000
+  digital_events: 12000000
+
+paths:
+  data_root: "data"
+  bronze: "data/bronze"
+  silver: "data/silver"
+  gold: "data/gold"
+  exports: "data/exports"
+  feature_store: "data/feature_store"
