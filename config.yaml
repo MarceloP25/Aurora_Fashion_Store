@@ -7,7 +7,7 @@ generation:
   customers: 100000
   products: 5000
   orders: 800000
-  order_items_max_per_order: 8
+  order_items_max_per_order: 20
   campaigns: 1000
   interactions: 3500000
   support_tickets: 120000
